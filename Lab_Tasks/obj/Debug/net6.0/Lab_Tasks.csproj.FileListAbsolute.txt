@@ -1,0 +1,14 @@
+C:\Users\kzeyn\source\repos\Lab_Tasks\Lab_Tasks\bin\Debug\net6.0\Lab_Tasks.exe
+C:\Users\kzeyn\source\repos\Lab_Tasks\Lab_Tasks\bin\Debug\net6.0\Lab_Tasks.deps.json
+C:\Users\kzeyn\source\repos\Lab_Tasks\Lab_Tasks\bin\Debug\net6.0\Lab_Tasks.runtimeconfig.json
+C:\Users\kzeyn\source\repos\Lab_Tasks\Lab_Tasks\bin\Debug\net6.0\Lab_Tasks.dll
+C:\Users\kzeyn\source\repos\Lab_Tasks\Lab_Tasks\bin\Debug\net6.0\Lab_Tasks.pdb
+C:\Users\kzeyn\source\repos\Lab_Tasks\Lab_Tasks\obj\Debug\net6.0\Lab_Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kzeyn\source\repos\Lab_Tasks\Lab_Tasks\obj\Debug\net6.0\Lab_Tasks.AssemblyInfoInputs.cache
+C:\Users\kzeyn\source\repos\Lab_Tasks\Lab_Tasks\obj\Debug\net6.0\Lab_Tasks.AssemblyInfo.cs
+C:\Users\kzeyn\source\repos\Lab_Tasks\Lab_Tasks\obj\Debug\net6.0\Lab_Tasks.csproj.CoreCompileInputs.cache
+C:\Users\kzeyn\source\repos\Lab_Tasks\Lab_Tasks\obj\Debug\net6.0\Lab_Tasks.dll
+C:\Users\kzeyn\source\repos\Lab_Tasks\Lab_Tasks\obj\Debug\net6.0\refint\Lab_Tasks.dll
+C:\Users\kzeyn\source\repos\Lab_Tasks\Lab_Tasks\obj\Debug\net6.0\Lab_Tasks.pdb
+C:\Users\kzeyn\source\repos\Lab_Tasks\Lab_Tasks\obj\Debug\net6.0\Lab_Tasks.genruntimeconfig.cache
+C:\Users\kzeyn\source\repos\Lab_Tasks\Lab_Tasks\obj\Debug\net6.0\ref\Lab_Tasks.dll
